@@ -1,0 +1,14 @@
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/bin/Debug/net7.0/my-first-csharp-project
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/bin/Debug/net7.0/my-first-csharp-project.deps.json
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/bin/Debug/net7.0/my-first-csharp-project.runtimeconfig.json
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/bin/Debug/net7.0/my-first-csharp-project.dll
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/bin/Debug/net7.0/my-first-csharp-project.pdb
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/my-first-csharp-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/my-first-csharp-project.AssemblyInfoInputs.cache
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/my-first-csharp-project.AssemblyInfo.cs
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/my-first-csharp-project.csproj.CoreCompileInputs.cache
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/my-first-csharp-project.dll
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/refint/my-first-csharp-project.dll
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/my-first-csharp-project.pdb
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/my-first-csharp-project.genruntimeconfig.cache
+/Users/gavinkimball/csharpProjects/my-first-csharp-project/obj/Debug/net7.0/ref/my-first-csharp-project.dll
